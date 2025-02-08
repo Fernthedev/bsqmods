@@ -1,0 +1,14 @@
+{
+  "name": "TooManyFireworks",
+  "description": "Don't think there's enough fireworks? This mod adds a variety of settings that can make fireworks powerful enough to explode the game itself!",
+  "id": "too-many-fireworks",
+  "version": "1.2.1",
+  "author": "CatsaCode",
+  "authorIcon": "https://avatars.githubusercontent.com/u/155121307?v=4",
+  "modloader": "Scotland2",
+  "download": "https://github.com/CatsaCode/TooManyFireworks/releases/download/v1.2.1/TooManyFireworks.qmod",
+  "source": "https://github.com/CatsaCode/TooManyFireworks/",
+  "cover": "https://raw.githubusercontent.com/CatsaCode/TooManyFireworks/main/cover.png",
+  "funding": [],
+  "website": "https://github.com/CatsaCode/TooManyFireworks/"
+}
