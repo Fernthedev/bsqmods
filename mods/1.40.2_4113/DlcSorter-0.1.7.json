@@ -1,0 +1,14 @@
+{
+  "name": "DlcSorter",
+  "description": "Sorts the DLC packs alphabetically.",
+  "id": "DlcSorter",
+  "version": "0.1.7",
+  "author": "DanTheMan827",
+  "authorIcon": "https://avatars.githubusercontent.com/u/176073241?v=4",
+  "modloader": "Scotland2",
+  "download": "https://github.com/DanTheMan827-BeatSaber/bsq-dlc-sorter/releases/download/v0.1.7/DlcSorter.qmod",
+  "source": "https://github.com/DanTheMan827-BeatSaber/bsq-dlc-sorter/",
+  "cover": "https://raw.githubusercontent.com/DanTheMan827-BeatSaber/bsq-dlc-sorter/master/cover.png",
+  "funding": [],
+  "website": "https://github.com/DanTheMan827-BeatSaber/bsq-dlc-sorter/"
+}
